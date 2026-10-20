@@ -1,6 +1,2 @@
-<!DOCTYPE html>
-<html>
-<body>
-    <h2>Welcome Boomika!!</h2>
-</body>
-</html>
+<h1>Welcome Boomika!</h1>
+<p>My first Maven Web Application</p>
